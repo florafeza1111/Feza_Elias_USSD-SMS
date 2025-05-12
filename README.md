@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+# EliasFeza_Mini_Project
+It is a USSD with SMS based system that enables a user to create account, deposit and withdraw money.
+
+Here's how it works:
+
+=======
+# Elias_Feza_Ussd-Sms
+>>>>>>> e81a65f6b0e1a6e49203bcd682504910e4534cb4
+=======
 # Feza_Elias_USSD-SMS
 
 === Here's a short description===
@@ -34,3 +45,4 @@ Technologies Used:===
 
 ================....@Elias_@feza....=======
 
+>>>>>>> 88a710f659b12957d3b42e138aaa355130fcba82
